@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.lTo-QpHd.mjs";function t(e,t){return{description:` `,favicon:`https://framerusercontent.com/assets/2hzK2XexW777XXDAUzxEA3dsSo.svg`,robots:`max-image-preview:large`,title:`Finch`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=shared-lib.CM79-TXj.mjs.map
