@@ -1,2 +1,0 @@
-import{t as e}from"./rolldown-runtime.lTo-QpHd.mjs";import{U as t,k as n}from"./framer.CoPtVYCs.mjs";var r,i,a,o=e((()=>{t(),n.loadFonts([]),r=[{explicitInter:!0,fonts:[]}],i=[`.framer-ccvg6 .framer-styles-preset-uvdy0e:not(.rich-text-wrapper), .framer-ccvg6 .framer-styles-preset-uvdy0e.rich-text-wrapper a {  }`],a=`framer-ccvg6`}));export{o as i,i as n,r,a as t};
-//# sourceMappingURL=RDCLDGZy1.Cf7h1HzG.mjs.map
